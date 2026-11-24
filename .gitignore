@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+**/Caddyfile
+*.key
+*.pem
+*.crt
+*.token
+backups/
+secrets/
